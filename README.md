@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shadi-Aldabbas
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently doing MSCS in Maharishi International University
 - 📫 Contact me on Dabbasfirst@outlook.com
 
 <!---
