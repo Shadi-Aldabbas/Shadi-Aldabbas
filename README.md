@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shadi-Aldabbas
 - 👀 I’m interested in Web Development
 - 🌱 I’m currently doing MSCS in Maharishi International University
-- 📫 Contact me on Dabbasfirst@outlook.com
+- 📫 Contact me on Shadi.aldabbas.0@gmail.com
 
 <!---
 Shadi-Aldabbas/Shadi-Aldabbas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
